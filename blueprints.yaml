@@ -1,0 +1,13 @@
+name: kyash
+version: 0.0.1
+description: "Add Kyash-button which is developed by satetsu888"
+icon: code
+author:
+  name: Mayo Toya
+  email: me@mail.dwyl.info
+  url: https://www.dwyl.info
+homepage:
+demo:
+keywords: Kyash
+bugs:
+license: MIT
